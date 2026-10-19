@@ -1,0 +1,2026 @@
+{
+ "books": [
+  {
+   "id": "ning-3",
+   "label": "宁骚",
+   "chapters": [
+    {
+     "name": "公共政策学的学科要素",
+     "modules": [
+      "p1"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "ning-3:1:1",
+       "term": "政策研究、政策分析、公共政策学",
+       "kind": "名词解释",
+       "page": 5,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:1:2",
+       "term": "政策群、政策链",
+       "kind": "名词解释",
+       "page": 7,
+       "red": true,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "公共政策的研究视角和路径",
+     "modules": [
+      "p2"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "ning-3:2:1",
+       "term": "公共政策的系统分析",
+       "kind": "简答",
+       "page": 47,
+       "red": false,
+       "ocr": [
+        10,
+        63
+       ]
+      },
+      {
+       "id": "ning-3:2:2",
+       "term": "社会分层的理论解释",
+       "kind": "简答",
+       "page": 61,
+       "red": false,
+       "ocr": [
+        77
+       ]
+      },
+      {
+       "id": "ning-3:2:3",
+       "term": "案例研究",
+       "kind": "简答",
+       "page": 55,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:2:4",
+       "term": "路径依赖观",
+       "kind": "名词解释",
+       "page": 63,
+       "red": false,
+       "ocr": [
+        79
+       ]
+      },
+      {
+       "id": "ning-3:2:5",
+       "term": "价值分析",
+       "kind": "简答",
+       "page": 67,
+       "red": true,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "政策研究的资料收集与分析方法",
+     "modules": [
+      "p3"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "ning-3:3:1",
+       "term": "非概率抽样",
+       "kind": "名词解释",
+       "page": 75,
+       "red": false,
+       "ocr": [
+        88,
+        91,
+        93
+       ]
+      },
+      {
+       "id": "ning-3:3:2",
+       "term": "不等概率抽样",
+       "kind": "名词解释",
+       "page": 77,
+       "red": false,
+       "ocr": [
+        88,
+        93
+       ]
+      },
+      {
+       "id": "ning-3:3:3",
+       "term": "雪球抽样、PPS抽样",
+       "kind": "名词解释",
+       "page": 77,
+       "red": false,
+       "ocr": [
+        93
+       ]
+      },
+      {
+       "id": "ning-3:3:4",
+       "term": "焦点团体座谈会与传统座谈会区别",
+       "kind": "简答",
+       "page": 81,
+       "red": true,
+       "ocr": [
+        96,
+        97,
+        123,
+        439
+       ]
+      },
+      {
+       "id": "ning-3:3:5",
+       "term": "头脑风暴法、德尔菲函询法",
+       "kind": "名词解释",
+       "page": 82,
+       "red": false,
+       "ocr": [
+        97,
+        98,
+        123
+       ]
+      },
+      {
+       "id": "ning-3:3:6",
+       "term": "准实验研究",
+       "kind": "名词解释",
+       "page": 84,
+       "red": false,
+       "ocr": [
+        100
+       ]
+      },
+      {
+       "id": "ning-3:3:7",
+       "term": "排队论",
+       "kind": "名词解释",
+       "page": 92,
+       "red": false,
+       "ocr": [
+        105,
+        107,
+        108
+       ]
+      },
+      {
+       "id": "ning-3:3:8",
+       "term": "马尔柯夫分析",
+       "kind": "名词解释",
+       "page": 93,
+       "red": false,
+       "ocr": [
+        105,
+        107,
+        109
+       ]
+      },
+      {
+       "id": "ning-3:3:9",
+       "term": "连续接近法",
+       "kind": "名词解释",
+       "page": 104,
+       "red": false,
+       "ocr": [
+        120
+       ]
+      }
+     ]
+    },
+    {
+     "name": "公共政策与政策工具",
+     "modules": [
+      "p4"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "ning-3:4:1",
+       "term": "公共政策",
+       "kind": "名词解释",
+       "page": 113,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:4:2",
+       "term": "元政策、基本政策、部门政策",
+       "kind": "名词解释",
+       "page": 115,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:4:3",
+       "term": "程序性政策与非程序性政策",
+       "kind": "名词解释",
+       "page": 118,
+       "red": true,
+       "ocr": [
+        134
+       ]
+      },
+      {
+       "id": "ning-3:4:4",
+       "term": "物质性政策与符号性政策",
+       "kind": "要点",
+       "page": 118,
+       "red": true,
+       "ocr": [
+        134
+       ]
+      },
+      {
+       "id": "ning-3:4:5",
+       "term": "公共政策与法",
+       "kind": "简答",
+       "page": 131,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:4:6",
+       "term": "公共政策的基本功能",
+       "kind": "简答",
+       "page": 132,
+       "red": true,
+       "ocr": [
+        148,
+        149
+       ]
+      },
+      {
+       "id": "ning-3:4:7",
+       "term": "公共政策的本质",
+       "kind": "简答/论述",
+       "page": 134,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:4:8",
+       "term": "公共政策的特征",
+       "kind": "简答",
+       "page": 139,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:4:9",
+       "term": "利益相关者",
+       "kind": "要点",
+       "page": 138,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:4:10",
+       "term": "政策工具",
+       "kind": "名词解释",
+       "page": 143,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:4:11",
+       "term": "政策工具的选择与配置",
+       "kind": "简答/论述",
+       "page": 146,
+       "red": true,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "政策系统与公共决策体制",
+     "modules": [
+      "p5"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "ning-3:5:1",
+       "term": "政策系统与政策行为者（名词及简答）",
+       "kind": "要点",
+       "page": 155,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:2",
+       "term": "政策主体及主体系统（名词及简答）",
+       "kind": "要点",
+       "page": 155,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:3",
+       "term": "政策网络（含义及形成原因及特点）",
+       "kind": "要点",
+       "page": 156,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:4",
+       "term": "政策客体及客体系统",
+       "kind": "名词解释",
+       "page": 159,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:5",
+       "term": "政策支持系统",
+       "kind": "简答",
+       "page": 160,
+       "red": false,
+       "ocr": [
+        24,
+        171,
+        172,
+        176
+       ]
+      },
+      {
+       "id": "ning-3:5:6",
+       "term": "政策环境及政策反馈系统",
+       "kind": "要点",
+       "page": 162,
+       "red": false,
+       "ocr": [
+        171,
+        172,
+        177,
+        178
+       ]
+      },
+      {
+       "id": "ning-3:5:7",
+       "term": "政策系统的运行",
+       "kind": "简答",
+       "page": 163,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:8",
+       "term": "公共权力",
+       "kind": "名词解释",
+       "page": 163,
+       "red": true,
+       "ocr": [],
+       "also": "xie-intro-5:1:5"
+      },
+      {
+       "id": "ning-3:5:9",
+       "term": "政府权力、政府职能与公共政策",
+       "kind": "简答",
+       "page": 163,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:10",
+       "term": "治理能力与公共政策",
+       "kind": "简答",
+       "page": 167,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:11",
+       "term": "公共决策权",
+       "kind": "名词解释",
+       "page": 168,
+       "red": false,
+       "ocr": [
+        171,
+        181,
+        183,
+        184
+       ]
+      },
+      {
+       "id": "ning-3:5:12",
+       "term": "全体一致规则、多数规则",
+       "kind": "名词解释",
+       "page": 170,
+       "red": true,
+       "ocr": [
+        185,
+        186
+       ]
+      },
+      {
+       "id": "ning-3:5:13",
+       "term": "公共利益与公共代价",
+       "kind": "简答",
+       "page": 174,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:14",
+       "term": "民意表达与公共政策",
+       "kind": "简答",
+       "page": 174,
+       "red": false,
+       "ocr": [
+        189,
+        190,
+        191,
+        192
+       ]
+      },
+      {
+       "id": "ning-3:5:15",
+       "term": "公民与公共政策",
+       "kind": "简答",
+       "page": 175,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:16",
+       "term": "社会团体、公民社会与公共政策",
+       "kind": "简答",
+       "page": 179,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:17",
+       "term": "利益集团",
+       "kind": "名词解释",
+       "page": 180,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:18",
+       "term": "利益集团与公共政策",
+       "kind": "简答",
+       "page": 181,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:5:19",
+       "term": "大众传播与公共政策",
+       "kind": "简答",
+       "page": 183,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "政策过程及其理论模型",
+     "modules": [
+      "p6"
+     ],
+     "notes": [
+      "每一个模型都要背，都很重要，可能考名解/简答/论述"
+     ],
+     "items": [
+      {
+       "id": "ning-3:6:1",
+       "term": "广博理性模型",
+       "kind": "要点",
+       "page": 199,
+       "red": true,
+       "ocr": [
+        214,
+        215,
+        216,
+        218
+       ]
+      },
+      {
+       "id": "ning-3:6:2",
+       "term": "有限理性模型",
+       "kind": "要点",
+       "page": 200,
+       "red": true,
+       "ocr": [
+        34,
+        214,
+        216,
+        219
+       ]
+      },
+      {
+       "id": "ning-3:6:3",
+       "term": "渐进主义模型",
+       "kind": "要点",
+       "page": 200,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:6:4",
+       "term": "规范最佳模型",
+       "kind": "要点",
+       "page": 202,
+       "red": false,
+       "ocr": [
+        213,
+        214,
+        218,
+        219
+       ]
+      },
+      {
+       "id": "ning-3:6:5",
+       "term": "混合扫描模型",
+       "kind": "要点",
+       "page": 202,
+       "red": false,
+       "ocr": [
+        213,
+        214,
+        218,
+        219
+       ]
+      },
+      {
+       "id": "ning-3:6:6",
+       "term": "垃圾桶模型",
+       "kind": "要点",
+       "page": 203,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:6:7",
+       "term": "多元主义政策过程模型",
+       "kind": "要点",
+       "page": 206,
+       "red": false,
+       "ocr": [
+        222
+       ]
+      },
+      {
+       "id": "ning-3:6:8",
+       "term": "集团理论模型",
+       "kind": "要点",
+       "page": 206,
+       "red": false,
+       "ocr": [
+        213,
+        222,
+        225,
+        226
+       ]
+      },
+      {
+       "id": "ning-3:6:9",
+       "term": "组合主义政策过程模型",
+       "kind": "要点",
+       "page": 207,
+       "red": false,
+       "ocr": [
+        223
+       ]
+      },
+      {
+       "id": "ning-3:6:10",
+       "term": "精英主义政策过程模型",
+       "kind": "要点",
+       "page": 210,
+       "red": true,
+       "ocr": [
+        226
+       ]
+      },
+      {
+       "id": "ning-3:6:11",
+       "term": "公共选择理论政策过程模型",
+       "kind": "要点",
+       "page": 214,
+       "red": false,
+       "ocr": [
+        229,
+        230
+       ]
+      },
+      {
+       "id": "ning-3:6:12",
+       "term": "博弈论政策过程模型",
+       "kind": "要点",
+       "page": 214,
+       "red": false,
+       "ocr": [
+        230,
+        232
+       ]
+      },
+      {
+       "id": "ning-3:6:13",
+       "term": "政治系统论政策过程模型",
+       "kind": "要点",
+       "page": 216,
+       "red": false,
+       "ocr": [
+        15,
+        232,
+        233
+       ]
+      },
+      {
+       "id": "ning-3:6:14",
+       "term": "政策倡导联盟框架",
+       "kind": "要点",
+       "page": 218,
+       "red": false,
+       "ocr": [
+        15,
+        233,
+        234,
+        248
+       ]
+      },
+      {
+       "id": "ning-3:6:15",
+       "term": "上下来去政策过程模型（哲学基础、社会认识过程与操作过程、上下来去、四个子模型）",
+       "kind": "要点",
+       "page": 222,
+       "red": false,
+       "ocr": [
+        294
+       ]
+      },
+      {
+       "id": "ning-3:6:16",
+       "term": "上下来去政策过程模型的特征",
+       "kind": "要点",
+       "page": 228,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:6:17",
+       "term": "与其他模型的关系",
+       "kind": "要点",
+       "page": 229,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:6:18",
+       "term": "公共政策的科学化、民主化、法治化",
+       "kind": "要点",
+       "page": 230,
+       "red": true,
+       "ocr": [
+        192
+       ]
+      }
+     ]
+    },
+    {
+     "name": "第七章 政策问题与议程设定",
+     "modules": [
+      "p7"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "ning-3:7:1",
+       "term": "公共问题、政策问题",
+       "kind": "名词解释",
+       "page": 234,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:7:2",
+       "term": "政策问题的基本属性/特征",
+       "kind": "要点",
+       "page": 235,
+       "red": false,
+       "ocr": [
+        251
+       ]
+      },
+      {
+       "id": "ning-3:7:3",
+       "term": "邓恩政策问题分类",
+       "kind": "简答",
+       "page": 238,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:7:4",
+       "term": "公共问题的提出者",
+       "kind": "简答",
+       "page": 240,
+       "red": false,
+       "ocr": [
+        255,
+        256,
+        257,
+        259
+       ]
+      },
+      {
+       "id": "ning-3:7:5",
+       "term": "问题认定",
+       "kind": "名词解释",
+       "page": 244,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:7:6",
+       "term": "问题认定的步骤",
+       "kind": "简答",
+       "page": 248,
+       "red": false,
+       "ocr": [
+        264
+       ]
+      },
+      {
+       "id": "ning-3:7:7",
+       "term": "政策议程",
+       "kind": "名词解释",
+       "page": 249,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:7:8",
+       "term": "科珀政策模型",
+       "kind": "简答",
+       "page": 252,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:7:9",
+       "term": "金登三源流模型",
+       "kind": "要点",
+       "page": 253,
+       "red": true,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "第八章 政策方案的规划与抉择",
+     "modules": [
+      "p8"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "ning-3:8:1",
+       "term": "政策目标",
+       "kind": "名词解释",
+       "page": 259,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:8:2",
+       "term": "公共政策基本目标",
+       "kind": "简答",
+       "page": 260,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:8:3",
+       "term": "政策目标的原则",
+       "kind": "简答",
+       "page": 262,
+       "red": false,
+       "ocr": [
+        278
+       ]
+      },
+      {
+       "id": "ning-3:8:4",
+       "term": "政策规划、政策设计",
+       "kind": "名词解释",
+       "page": 264,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:8:5",
+       "term": "方案设计的基本要素",
+       "kind": "简答",
+       "page": 265,
+       "red": false,
+       "ocr": [
+        281
+       ]
+      },
+      {
+       "id": "ning-3:8:6",
+       "term": "政策规划与政策设计的联系与区别",
+       "kind": "简答",
+       "page": 266,
+       "red": false,
+       "ocr": [
+        282
+       ]
+      },
+      {
+       "id": "ning-3:8:7",
+       "term": "政策规划主体",
+       "kind": "简答",
+       "page": 267,
+       "red": false,
+       "ocr": [
+        173,
+        283
+       ]
+      },
+      {
+       "id": "ning-3:8:8",
+       "term": "政策方案设计原则",
+       "kind": "简答",
+       "page": 268,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:8:9",
+       "term": "政策学习（名词及简答）",
+       "kind": "要点",
+       "page": 259,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:8:10",
+       "term": "社会学习",
+       "kind": "名词解释",
+       "page": 271,
+       "red": true,
+       "ocr": [
+        286,
+        287,
+        358
+       ]
+      },
+      {
+       "id": "ning-3:8:11",
+       "term": "政策移植（名词及简答）",
+       "kind": "要点",
+       "page": 271,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:8:12",
+       "term": "公共政策抉择原则",
+       "kind": "简答",
+       "page": 273,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:8:13",
+       "term": "政策论证、政策审议、政策采纳",
+       "kind": "名词解释",
+       "page": 279,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:8:14",
+       "term": "公共政策抉择的合法化",
+       "kind": "要点",
+       "page": 280,
+       "red": true,
+       "ocr": [
+        296
+       ]
+      },
+      {
+       "id": "ning-3:8:15",
+       "term": "常规决策与危机决策",
+       "kind": "简答",
+       "page": 283,
+       "red": false,
+       "ocr": [
+        16,
+        299,
+        300
+       ]
+      }
+     ]
+    },
+    {
+     "name": "公共政策执行",
+     "modules": [
+      "p9"
+     ],
+     "notes": [
+      "重要，全部背诵"
+     ],
+     "items": [
+      {
+       "id": "ning-3:9:1",
+       "term": "政策执行",
+       "kind": "名词解释",
+       "page": 288,
+       "red": true,
+       "ocr": [],
+       "also": "xie-intro-5:6:2"
+      },
+      {
+       "id": "ning-3:9:2",
+       "term": "政策执行研究路径的发展",
+       "kind": "要点",
+       "page": 289,
+       "red": false,
+       "ocr": [
+        305
+       ]
+      },
+      {
+       "id": "ning-3:9:3",
+       "term": "基于西方经验的政策执行理论模型",
+       "kind": "要点",
+       "page": 295,
+       "red": true,
+       "ocr": [
+        310
+       ]
+      },
+      {
+       "id": "ning-3:9:4",
+       "term": "下级行政人员的执行行为",
+       "kind": "简答",
+       "page": 299,
+       "red": false,
+       "ocr": [
+        314,
+        315
+       ]
+      },
+      {
+       "id": "ning-3:9:5",
+       "term": "政策执行资源",
+       "kind": "简答",
+       "page": 299,
+       "red": false,
+       "ocr": [
+        315,
+        327
+       ]
+      },
+      {
+       "id": "ning-3:9:6",
+       "term": "政策执行工具（可直接用王乐夫书上第11章的内容）",
+       "kind": "要点",
+       "page": 300,
+       "red": false,
+       "ocr": [
+        316,
+        318
+       ]
+      },
+      {
+       "id": "ning-3:9:7",
+       "term": "政策执行力（含义、影响因素、机制创新）",
+       "kind": "要点",
+       "page": 302,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:9:8",
+       "term": "政策执行过程",
+       "kind": "简答/论述",
+       "page": 304,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:9:9",
+       "term": "政策执行的主要因素",
+       "kind": "简答",
+       "page": 310,
+       "red": true,
+       "ocr": [
+        313,
+        326,
+        327,
+        336
+       ]
+      },
+      {
+       "id": "ning-3:9:10",
+       "term": "政策执行偏差/政策失真",
+       "kind": "名词解释",
+       "page": 313,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:9:11",
+       "term": "政策执行偏差表现形式",
+       "kind": "要点",
+       "page": 314,
+       "red": true,
+       "ocr": [
+        331
+       ]
+      },
+      {
+       "id": "ning-3:9:12",
+       "term": "政策执行偏差原因及矫正",
+       "kind": "要点",
+       "page": 315,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:9:13",
+       "term": "政策失灵",
+       "kind": "名词解释",
+       "page": 317,
+       "red": true,
+       "ocr": [
+        333
+       ]
+      },
+      {
+       "id": "ning-3:9:14",
+       "term": "政策有效执行原则",
+       "kind": "名词解释",
+       "page": 318,
+       "red": false,
+       "ocr": [],
+       "also": "xie-intro-5:6:3"
+      },
+      {
+       "id": "ning-3:9:15",
+       "term": "政策有效执行机制",
+       "kind": "简答",
+       "page": 319,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "公共政策的评估与监控",
+     "modules": [
+      "p10"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "ning-3:10:1",
+       "term": "政策评估",
+       "kind": "名词解释",
+       "page": 323,
+       "red": true,
+       "ocr": [],
+       "also": "xie-intro-5:7:2"
+      },
+      {
+       "id": "ning-3:10:2",
+       "term": "政策评估目的及作用324",
+       "kind": "简答",
+       "page": null,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:10:3",
+       "term": "政策评估主体",
+       "kind": "简答",
+       "page": 325,
+       "red": false,
+       "ocr": [
+        173,
+        177,
+        340,
+        341
+       ]
+      },
+      {
+       "id": "ning-3:10:4",
+       "term": "政策评估类型",
+       "kind": "简答",
+       "page": 326,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:10:5",
+       "term": "政策评估标准",
+       "kind": "简答/论述",
+       "page": 331,
+       "red": true,
+       "ocr": [
+        338,
+        346,
+        407
+       ]
+      },
+      {
+       "id": "ning-3:10:6",
+       "term": "影响政策评估的因素",
+       "kind": "简答",
+       "page": 334,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:10:7",
+       "term": "以定性分析为主的政策评估的程序",
+       "kind": "简答",
+       "page": 344,
+       "red": false,
+       "ocr": [
+        360
+       ]
+      },
+      {
+       "id": "ning-3:10:8",
+       "term": "政策监控（含义、类型、功能）",
+       "kind": "要点",
+       "page": 348,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:10:9",
+       "term": "政策监控机制的构成",
+       "kind": "简答",
+       "page": 349,
+       "red": false,
+       "ocr": [
+        365
+       ]
+      },
+      {
+       "id": "ning-3:10:10",
+       "term": "政策监控与政策过程",
+       "kind": "简答",
+       "page": 351,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "第十一章 公共政策的变动、终结与周期",
+     "modules": [
+      "p11"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "ning-3:11:1",
+       "term": "政策稳定",
+       "kind": "名词解释",
+       "page": 357,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:2",
+       "term": "政策稳定的积极与消极影响",
+       "kind": "简答",
+       "page": 357,
+       "red": false,
+       "ocr": [
+        373,
+        374,
+        375,
+        376
+       ]
+      },
+      {
+       "id": "ning-3:11:3",
+       "term": "政策稳定的动力因素",
+       "kind": "简答",
+       "page": 358,
+       "red": false,
+       "ocr": [
+        374
+       ]
+      },
+      {
+       "id": "ning-3:11:4",
+       "term": "政策维持",
+       "kind": "名词解释",
+       "page": 359,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:5",
+       "term": "如何维持政策稳定",
+       "kind": "简答",
+       "page": 360,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:6",
+       "term": "政策变动",
+       "kind": "名词解释",
+       "page": 362,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:7",
+       "term": "政策变动原因",
+       "kind": "简答",
+       "page": 362,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:8",
+       "term": "政策变动的模型（重点记学习型）",
+       "kind": "要点",
+       "page": 365,
+       "red": false,
+       "ocr": [
+        379
+       ]
+      },
+      {
+       "id": "ning-3:11:9",
+       "term": "政策创新（含义及分类及动力）",
+       "kind": "要点",
+       "page": 367,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:10",
+       "term": "政策调整",
+       "kind": "名词解释",
+       "page": 367,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:11",
+       "term": "政策调整内容",
+       "kind": "简答",
+       "page": 368,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:12",
+       "term": "政策调整的原则",
+       "kind": "简答",
+       "page": 370,
+       "red": false,
+       "ocr": [
+        386
+       ]
+      },
+      {
+       "id": "ning-3:11:13",
+       "term": "政策调整的原因及作用",
+       "kind": "简答",
+       "page": 371,
+       "red": false,
+       "ocr": [
+        387
+       ]
+      },
+      {
+       "id": "ning-3:11:14",
+       "term": "政策接续（含义、形式与途径）",
+       "kind": "要点",
+       "page": 374,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:15",
+       "term": "政策接续与政策创新的比较的图表",
+       "kind": "要点",
+       "page": 373,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:16",
+       "term": "政策终结",
+       "kind": "名词解释",
+       "page": 377,
+       "red": false,
+       "ocr": [],
+       "also": "xie-intro-5:8:1"
+      },
+      {
+       "id": "ning-3:11:17",
+       "term": "政策终结对象",
+       "kind": "简答",
+       "page": 377,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:18",
+       "term": "政策终结方式",
+       "kind": "简答",
+       "page": 377,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:19",
+       "term": "政策终结的原因及作用",
+       "kind": "简答",
+       "page": 378,
+       "red": false,
+       "ocr": [
+        394
+       ]
+      },
+      {
+       "id": "ning-3:11:20",
+       "term": "政策终结策略",
+       "kind": "简答",
+       "page": 382,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "ning-3:11:21",
+       "term": "政策生命周期/政策过程",
+       "kind": "名词解释",
+       "page": 384,
+       "red": true,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "公共政策学知识的应用",
+     "modules": [
+      "p12"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "ning-3:12:1",
+       "term": "帕顿和沙维奇的政策分析框架",
+       "kind": "简答",
+       "page": 394,
+       "red": true,
+       "ocr": [
+        410,
+        412
+       ]
+      },
+      {
+       "id": "ning-3:12:2",
+       "term": "公共政策研究组织",
+       "kind": "名词解释",
+       "page": 398,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    }
+   ],
+   "source": "公共政策/宁骚/宁骚公共政策学.docx"
+  },
+  {
+   "id": "xie-intro-5",
+   "label": "谢明",
+   "chapters": [
+    {
+     "name": "绪论",
+     "modules": [
+      "p1"
+     ],
+     "notes": [
+      "本笔记未注明版本，所标页码与本地《导论》第5版不一致；笔记页码原样保留，OCR 页另在第5版中按关键词定位，不能直接互换。"
+     ],
+     "items": [
+      {
+       "id": "xie-intro-5:1:1",
+       "term": "公地悲剧及解决办法",
+       "kind": "要点",
+       "page": 9,
+       "red": false,
+       "ocr": [
+        11,
+        31,
+        57
+       ]
+      },
+      {
+       "id": "xie-intro-5:1:2",
+       "term": "从公共角度理解公共政策",
+       "kind": "简答/论述",
+       "page": 9,
+       "red": false,
+       "ocr": [
+        11,
+        20,
+        31,
+        58
+       ]
+      },
+      {
+       "id": "xie-intro-5:1:3",
+       "term": "不伤害原则",
+       "kind": "名词解释",
+       "page": 10,
+       "red": false,
+       "ocr": [
+        32
+       ]
+      },
+      {
+       "id": "xie-intro-5:1:4",
+       "term": "搭便车及解决办法",
+       "kind": "要点",
+       "page": 11,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "xie-intro-5:1:5",
+       "term": "公共权力",
+       "kind": "名词解释",
+       "page": null,
+       "red": false,
+       "ocr": [],
+       "also": "ning-3:5:8"
+      },
+      {
+       "id": "xie-intro-5:1:6",
+       "term": "从政治角度理解公共政策",
+       "kind": "论述",
+       "page": 20,
+       "red": false,
+       "ocr": [
+        20,
+        42
+       ]
+      }
+     ]
+    },
+    {
+     "name": "公共政策的形式、类型、特征与作用",
+     "modules": [
+      "p4"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "xie-intro-5:2:1",
+       "term": "国家三权分立体制下的公共政策",
+       "kind": "简答",
+       "page": 38,
+       "red": false,
+       "ocr": [
+        59
+       ]
+      },
+      {
+       "id": "xie-intro-5:2:2",
+       "term": "中国现行体制下的公共政策",
+       "kind": "简答",
+       "page": 38,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "xie-intro-5:2:3",
+       "term": "全民公决",
+       "kind": "名词解释",
+       "page": 42,
+       "red": false,
+       "ocr": [
+        9,
+        14,
+        63,
+        64
+       ]
+      },
+      {
+       "id": "xie-intro-5:2:4",
+       "term": "管制性和自我管制性政策",
+       "kind": "名词解释",
+       "page": 45,
+       "red": false,
+       "ocr": [
+        67,
+        68
+       ]
+      }
+     ]
+    },
+    {
+     "name": "政策主体、政策客体与政策环境",
+     "modules": [
+      "p5"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "xie-intro-5:3:1",
+       "term": "政策主体：官方决策者、非官方参与者",
+       "kind": "简答",
+       "page": 59,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "xie-intro-5:3:2",
+       "term": "政策认同的缘由",
+       "kind": "简答",
+       "page": 67,
+       "red": false,
+       "ocr": [
+        89
+       ]
+      },
+      {
+       "id": "xie-intro-5:3:3",
+       "term": "政策抗拒的起因",
+       "kind": "简答",
+       "page": 68,
+       "red": false,
+       "ocr": [
+        90
+       ]
+      },
+      {
+       "id": "xie-intro-5:3:4",
+       "term": "组织生态论",
+       "kind": "要点",
+       "page": 72,
+       "red": false,
+       "ocr": [
+        11,
+        94,
+        107
+       ]
+      }
+     ]
+    },
+    {
+     "name": "政策模型及相关理论",
+     "modules": [
+      "p6"
+     ],
+     "notes": [
+      "主要背宁骚书上没有的"
+     ],
+     "items": [
+      {
+       "id": "xie-intro-5:4:1",
+       "term": "小组意识模型",
+       "kind": "简答",
+       "page": 98,
+       "red": false,
+       "ocr": [
+        120
+       ]
+      },
+      {
+       "id": "xie-intro-5:4:2",
+       "term": "制度理论",
+       "kind": "简答",
+       "page": 103,
+       "red": false,
+       "ocr": [
+        11,
+        125,
+        126,
+        144
+       ]
+      },
+      {
+       "id": "xie-intro-5:4:3",
+       "term": "组织过程模型",
+       "kind": "名词解释",
+       "page": 104,
+       "red": false,
+       "ocr": [
+        11,
+        126,
+        144
+       ]
+      },
+      {
+       "id": "xie-intro-5:4:4",
+       "term": "囚徒困境",
+       "kind": "名词解释",
+       "page": 107,
+       "red": false,
+       "ocr": [
+        128,
+        129,
+        145
+       ]
+      },
+      {
+       "id": "xie-intro-5:4:5",
+       "term": "过程模型",
+       "kind": "简答",
+       "page": 111,
+       "red": false,
+       "ocr": [
+        11,
+        126,
+        133,
+        134
+       ]
+      },
+      {
+       "id": "xie-intro-5:4:6",
+       "term": "批判性理论",
+       "kind": "简答",
+       "page": 114,
+       "red": false,
+       "ocr": [
+        11,
+        136,
+        137
+       ]
+      },
+      {
+       "id": "xie-intro-5:4:7",
+       "term": "中国古代政策观",
+       "kind": "简答",
+       "page": 118,
+       "red": false,
+       "ocr": [
+        11,
+        15,
+        21,
+        140
+       ]
+      }
+     ]
+    },
+    {
+     "name": "政策制定",
+     "modules": [
+      "p7",
+      "p8"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "xie-intro-5:5:1",
+       "term": "过失性社会问题与结构性社会问题",
+       "kind": "名词解释",
+       "page": 125,
+       "red": false,
+       "ocr": [
+        147,
+        148,
+        234
+       ]
+      },
+      {
+       "id": "xie-intro-5:5:2",
+       "term": "社会问题理论",
+       "kind": "名词解释",
+       "page": 127,
+       "red": false,
+       "ocr": [
+        11,
+        149
+       ]
+      },
+      {
+       "id": "xie-intro-5:5:3",
+       "term": "公众议程与政府议程的异同",
+       "kind": "要点",
+       "page": 150,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "xie-intro-5:5:4",
+       "term": "实质性议程与象征性议程",
+       "kind": "名词解释",
+       "page": 151,
+       "red": false,
+       "ocr": [
+        173
+       ]
+      },
+      {
+       "id": "xie-intro-5:5:5",
+       "term": "政策议程建立的条件",
+       "kind": "简答",
+       "page": 152,
+       "red": false,
+       "ocr": [
+        174
+       ]
+      },
+      {
+       "id": "xie-intro-5:5:6",
+       "term": "政策议程触发机制",
+       "kind": "简答",
+       "page": 153,
+       "red": false,
+       "ocr": [
+        234
+       ]
+      },
+      {
+       "id": "xie-intro-5:5:7",
+       "term": "政策议程建立的障碍",
+       "kind": "简答",
+       "page": 158,
+       "red": false,
+       "ocr": [
+        180
+       ]
+      },
+      {
+       "id": "xie-intro-5:5:8",
+       "term": "政策规划的原则（简单背一下）",
+       "kind": "要点",
+       "page": 163,
+       "red": false,
+       "ocr": [
+        185
+       ]
+      },
+      {
+       "id": "xie-intro-5:5:9",
+       "term": "哥顿法、综摄法",
+       "kind": "名词解释",
+       "page": 179,
+       "red": false,
+       "ocr": [
+        200,
+        201,
+        234
+       ]
+      },
+      {
+       "id": "xie-intro-5:5:10",
+       "term": "区分事实前提与价值前提",
+       "kind": "简答",
+       "page": 183,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "xie-intro-5:5:11",
+       "term": "政策规划程序",
+       "kind": "简答",
+       "page": 182,
+       "red": false,
+       "ocr": [
+        204
+       ]
+      },
+      {
+       "id": "xie-intro-5:5:12",
+       "term": "可行性评估、不可行性评估",
+       "kind": "名词解释",
+       "page": 192,
+       "red": false,
+       "ocr": [
+        211,
+        215
+       ]
+      },
+      {
+       "id": "xie-intro-5:5:13",
+       "term": "心理效应（了解为主）",
+       "kind": "要点",
+       "page": 200,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "xie-intro-5:5:14",
+       "term": "政策获得合法化过程",
+       "kind": "论述",
+       "page": 206,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "政策执行",
+     "modules": [
+      "p9"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "xie-intro-5:6:1",
+       "term": "行动学派与组织理论学派异同点",
+       "kind": "简答",
+       "page": 214,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "xie-intro-5:6:2",
+       "term": "政策执行特征",
+       "kind": "简答",
+       "page": 217,
+       "red": false,
+       "ocr": [],
+       "also": "ning-3:9:1"
+      },
+      {
+       "id": "xie-intro-5:6:3",
+       "term": "政策执行原则",
+       "kind": "简答",
+       "page": 228,
+       "red": false,
+       "ocr": [
+        9,
+        21,
+        250
+       ],
+       "also": "ning-3:9:1"
+      },
+      {
+       "id": "xie-intro-5:6:4",
+       "term": "政策执行要素/政策执行的相关条件",
+       "kind": "论述",
+       "page": 234,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "xie-intro-5:6:5",
+       "term": "政策执行策略",
+       "kind": "简答",
+       "page": 242,
+       "red": false,
+       "ocr": [
+        11,
+        21,
+        264
+       ],
+       "also": "ning-3:9:1"
+      }
+     ]
+    },
+    {
+     "name": "政策评估",
+     "modules": [
+      "p10"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "xie-intro-5:7:1",
+       "term": "政策评估的基本内容",
+       "kind": "简答",
+       "page": 256,
+       "red": false,
+       "ocr": [
+        15,
+        278,
+        301
+       ]
+      },
+      {
+       "id": "xie-intro-5:7:2",
+       "term": "政策评估的功能",
+       "kind": "要点",
+       "page": 258,
+       "red": false,
+       "ocr": [
+        280
+       ],
+       "also": "ning-3:10:1"
+      },
+      {
+       "id": "xie-intro-5:7:3",
+       "term": "政策评估的要素",
+       "kind": "简答/论述",
+       "page": 260,
+       "red": false,
+       "ocr": [
+        282
+       ],
+       "also": "ning-3:10:1"
+      },
+      {
+       "id": "xie-intro-5:7:4",
+       "term": "通过哪些方法寻找公平",
+       "kind": "简答",
+       "page": 264,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "xie-intro-5:7:5",
+       "term": "阿罗不可能性定理",
+       "kind": "名词解释",
+       "page": 265,
+       "red": false,
+       "ocr": [
+        15,
+        286,
+        287,
+        288
+       ]
+      },
+      {
+       "id": "xie-intro-5:7:6",
+       "term": "政策评估的理性基础",
+       "kind": "简答",
+       "page": 270,
+       "red": false,
+       "ocr": [
+        292
+       ]
+      },
+      {
+       "id": "xie-intro-5:7:7",
+       "term": "政策评估的障碍",
+       "kind": "简答",
+       "page": 278,
+       "red": false,
+       "ocr": [
+        21,
+        300
+       ],
+       "also": "ning-3:10:1"
+      }
+     ]
+    },
+    {
+     "name": "政策终结",
+     "modules": [
+      "p11"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "xie-intro-5:8:1",
+       "term": "政策终结的障碍",
+       "kind": "简答",
+       "page": 293,
+       "red": false,
+       "ocr": [
+        22,
+        315,
+        324
+       ],
+       "also": "ning-3:11:16"
+      },
+      {
+       "id": "xie-intro-5:8:2",
+       "term": "认知失调理论、认知平衡理论",
+       "kind": "名词解释",
+       "page": 295,
+       "red": false,
+       "ocr": [
+        317,
+        324
+       ]
+      }
+     ]
+    }
+   ],
+   "source": "公共政策/谢明/谢明公共政策.docx"
+  }
+ ],
+ "stats": {
+  "items": 185,
+  "verified": 100,
+  "red": 40,
+  "both": 13
+ },
+ "description": "红点沿用笔记标红，未逐题核验原卷；笔记页码保留原标注，MinerU 原文页仅表示关键词定位，并非整条考点的逐句核验。谢明笔记版本未注明，与第5版页码不可互换。",
+ "pageLabel": "笔记 P"
+}

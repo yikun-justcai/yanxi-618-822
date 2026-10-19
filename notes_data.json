@@ -1,0 +1,2331 @@
+{
+ "books": [
+  {
+   "id": "cai-wang-3",
+   "label": "蔡王",
+   "chapters": [
+    {
+     "name": "导论",
+     "modules": [
+      "m1"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "cai-wang-3:1:1",
+       "term": "公共管理、公共管理学",
+       "kind": "名词解释",
+       "page": 6,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:1:2",
+       "term": "公共管理与公共行政异同",
+       "kind": "简答",
+       "page": 8,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:1:3",
+       "term": "公共产品",
+       "kind": "名词解释",
+       "page": 9,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:1:4",
+       "term": "公共管理与公共政策异同",
+       "kind": "简答",
+       "page": 10,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:1:5",
+       "term": "公共管理与工商企业管理",
+       "kind": "简答",
+       "page": 12,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:1:6",
+       "term": "公共治理、善治",
+       "kind": "名词解释",
+       "page": 13,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:1:7",
+       "term": "公共管理学学科特征",
+       "kind": "简答",
+       "page": 24,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:1:8",
+       "term": "B途径与P途径",
+       "kind": "简答",
+       "page": 25,
+       "red": true,
+       "ocr": [
+        12,
+        25,
+        27,
+        36
+       ]
+      }
+     ]
+    },
+    {
+     "name": "公共管理的理论发展",
+     "modules": [
+      "m2"
+     ],
+     "notes": [
+      "这一章很重要，所有理论都要熟练背"
+     ],
+     "items": [
+      {
+       "id": "cai-wang-3:2:1",
+       "term": "公共行政理论的初创（威尔逊政治行政二分法、韦伯官僚制理论、泰勒科学管理理论）",
+       "kind": "要点",
+       "page": 34,
+       "red": false,
+       "ocr": [
+        44
+       ]
+      },
+      {
+       "id": "cai-wang-3:2:2",
+       "term": "公共行政理论的建构（怀特系统化公共行政理论、古利克与厄威克科学化公共行政原则、福莱特动态化公共行政理论）",
+       "kind": "要点",
+       "page": 42,
+       "red": false,
+       "ocr": [
+        49
+       ]
+      },
+      {
+       "id": "cai-wang-3:2:3",
+       "term": "公共行政理论的转型（西蒙、沃尔多新公共行政学）",
+       "kind": "要点",
+       "page": 43,
+       "red": false,
+       "ocr": [
+        54
+       ]
+      },
+      {
+       "id": "cai-wang-3:2:4",
+       "term": "西沃之争",
+       "kind": "名词解释",
+       "page": 47,
+       "red": false,
+       "ocr": [
+        58
+       ]
+      },
+      {
+       "id": "cai-wang-3:2:5",
+       "term": "公共选择理论",
+       "kind": "名词解释",
+       "page": null,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:2:6",
+       "term": "政府规模扩张原因",
+       "kind": "简答",
+       "page": 51,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:2:7",
+       "term": "新公共管理理论",
+       "kind": "要点",
+       "page": 53,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:2:8",
+       "term": "管理主义",
+       "kind": "名词解释",
+       "page": 54,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:2:9",
+       "term": "新公共服务理论",
+       "kind": "要点",
+       "page": 56,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:2:10",
+       "term": "公共治理理论",
+       "kind": "要点",
+       "page": 63,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "公共组织",
+     "modules": [
+      "m3"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "cai-wang-3:3:1",
+       "term": "公共组织",
+       "kind": "名词解释",
+       "page": 72,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:3:2",
+       "term": "公共组织基本要素",
+       "kind": "简答",
+       "page": 72,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:3:3",
+       "term": "公共组织的特征",
+       "kind": "简答",
+       "page": 73,
+       "red": false,
+       "ocr": [
+        87
+       ]
+      },
+      {
+       "id": "cai-wang-3:3:4",
+       "term": "公共组织的结构（纵向、横向、主要结构形式）",
+       "kind": "要点",
+       "page": 75,
+       "red": false,
+       "ocr": [
+        89,
+        91
+       ]
+      },
+      {
+       "id": "cai-wang-3:3:5",
+       "term": "公共组织类型（政府组织、非营利组织、准政府组织）",
+       "kind": "要点",
+       "page": 79,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:3:6",
+       "term": "非营利组织是公共管理主体的必要组成部分/非营利组织在公共管理方面的作用",
+       "kind": "简答",
+       "page": 86,
+       "red": true,
+       "ocr": [
+        109,
+        113
+       ]
+      },
+      {
+       "id": "cai-wang-3:3:7",
+       "term": "非营利组织发展存在的问题",
+       "kind": "简答",
+       "page": 89,
+       "red": true,
+       "ocr": [
+        111
+       ]
+      },
+      {
+       "id": "cai-wang-3:3:8",
+       "term": "事业单位",
+       "kind": "名词解释",
+       "page": 91,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:3:9",
+       "term": "事业单位的特征",
+       "kind": "简答",
+       "page": 92,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:3:10",
+       "term": "事业单位的必要性与目标取向",
+       "kind": "简答",
+       "page": 93,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:3:11",
+       "term": "科层制方法的主要内容",
+       "kind": "简答",
+       "page": 98,
+       "red": false,
+       "ocr": [
+        120,
+        121
+       ]
+      },
+      {
+       "id": "cai-wang-3:3:12",
+       "term": "传统科层制组织的缺陷与困境",
+       "kind": "简答",
+       "page": 99,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:3:13",
+       "term": "公共组织变革的目标",
+       "kind": "简答",
+       "page": 101,
+       "red": false,
+       "ocr": [
+        124,
+        127,
+        128
+       ]
+      },
+      {
+       "id": "cai-wang-3:3:14",
+       "term": "公共组织变革的内容",
+       "kind": "简答",
+       "page": 102,
+       "red": false,
+       "ocr": [
+        125,
+        127
+       ]
+      }
+     ]
+    },
+    {
+     "name": "公共领导",
+     "modules": [
+      "m4"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "cai-wang-3:4:1",
+       "term": "公共领导",
+       "kind": "名词解释",
+       "page": 110,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:4:2",
+       "term": "公共领导的特点",
+       "kind": "简答",
+       "page": 111,
+       "red": false,
+       "ocr": [
+        134
+       ]
+      },
+      {
+       "id": "cai-wang-3:4:3",
+       "term": "公共领导的作用",
+       "kind": "简答",
+       "page": 112,
+       "red": false,
+       "ocr": [
+        135,
+        136
+       ]
+      },
+      {
+       "id": "cai-wang-3:4:4",
+       "term": "西方领导理论的演进与新进展",
+       "kind": "名词解释",
+       "page": 113,
+       "red": false,
+       "ocr": [
+        136
+       ]
+      },
+      {
+       "id": "cai-wang-3:4:5",
+       "term": "领导体制",
+       "kind": "名词解释",
+       "page": 118,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:4:6",
+       "term": "领导体制的内容",
+       "kind": "简答",
+       "page": 119,
+       "red": false,
+       "ocr": [
+        142
+       ]
+      },
+      {
+       "id": "cai-wang-3:4:7",
+       "term": "领导体制的基本类型",
+       "kind": "简答",
+       "page": 119,
+       "red": false,
+       "ocr": [
+        143
+       ]
+      },
+      {
+       "id": "cai-wang-3:4:8",
+       "term": "公共领导体制改革存在的问题",
+       "kind": "简答",
+       "page": 121,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:4:9",
+       "term": "公共领导体制改革路径",
+       "kind": "简答",
+       "page": 122,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:4:10",
+       "term": "领导方法（含义、特征）",
+       "kind": "要点",
+       "page": 124,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:4:11",
+       "term": "领导协调（含义、内容、原则）",
+       "kind": "要点",
+       "page": 126,
+       "red": false,
+       "ocr": [
+        148,
+        149,
+        150,
+        159
+       ]
+      },
+      {
+       "id": "cai-wang-3:4:12",
+       "term": "领导沟通（含义、作用、有效沟通的途径、增强领导沟通的方法）",
+       "kind": "要点",
+       "page": 130,
+       "red": false,
+       "ocr": [
+        135,
+        151,
+        152,
+        154
+       ]
+      },
+      {
+       "id": "cai-wang-3:4:13",
+       "term": "领导激励（含义、原则、方法）",
+       "kind": "要点",
+       "page": null,
+       "red": false,
+       "ocr": [
+        155,
+        156,
+        158,
+        165
+       ]
+      },
+      {
+       "id": "cai-wang-3:4:14",
+       "term": "领导能力（含义、发挥领导能力的基本条件）",
+       "kind": "要点",
+       "page": 134,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:4:15",
+       "term": "领导能力的主要内容（创新、战略思维能力、执政能力）",
+       "kind": "要点",
+       "page": 135,
+       "red": false,
+       "ocr": [
+        159
+       ]
+      },
+      {
+       "id": "cai-wang-3:4:16",
+       "term": "领导方式（含义及类型）",
+       "kind": "要点",
+       "page": 138,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "公共政策",
+     "modules": [
+      "m5"
+     ],
+     "notes": [
+      "主要背政策没有的"
+     ],
+     "items": [
+      {
+       "id": "cai-wang-3:5:1",
+       "term": "公共管理视界中的公共政策",
+       "kind": "简答",
+       "page": 145,
+       "red": false,
+       "ocr": [
+        171
+       ]
+      },
+      {
+       "id": "cai-wang-3:5:2",
+       "term": "政策工具的类型及其特点",
+       "kind": "简答",
+       "page": 147,
+       "red": false,
+       "ocr": [
+        172
+       ]
+      },
+      {
+       "id": "cai-wang-3:5:3",
+       "term": "政策工具的选择及应用",
+       "kind": "简答",
+       "page": 147,
+       "red": true,
+       "ocr": [
+        172,
+        173,
+        174
+       ]
+      },
+      {
+       "id": "cai-wang-3:5:4",
+       "term": "政策沟通的途径及障碍",
+       "kind": "简答",
+       "page": 158,
+       "red": false,
+       "ocr": [
+        186
+       ]
+      },
+      {
+       "id": "cai-wang-3:5:5",
+       "term": "公共政策分析",
+       "kind": "名词解释",
+       "page": 164,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:5:6",
+       "term": "灵敏度分析",
+       "kind": "名词解释",
+       "page": 168,
+       "red": false,
+       "ocr": [
+        196,
+        197
+       ]
+      },
+      {
+       "id": "cai-wang-3:5:7",
+       "term": "交叉影响分析法",
+       "kind": "名词解释",
+       "page": 169,
+       "red": false,
+       "ocr": [
+        197,
+        198,
+        199
+       ]
+      },
+      {
+       "id": "cai-wang-3:5:8",
+       "term": "脚本写作法",
+       "kind": "名词解释",
+       "page": 170,
+       "red": false,
+       "ocr": [
+        197,
+        199
+       ]
+      },
+      {
+       "id": "cai-wang-3:5:9",
+       "term": "公共政策发展趋向",
+       "kind": "简答",
+       "page": 170,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:5:10",
+       "term": "通过公共政策发展实现公共管理价值的途径",
+       "kind": "简答",
+       "page": 173,
+       "red": false,
+       "ocr": [
+        203
+       ]
+      }
+     ]
+    },
+    {
+     "name": "公共人力资源管理",
+     "modules": [
+      "m6"
+     ],
+     "notes": [
+      "也可能6.2人力资源管理的主要内容直接出一个论述题"
+     ],
+     "items": [
+      {
+       "id": "cai-wang-3:6:1",
+       "term": "人力资源含义及特点",
+       "kind": "要点",
+       "page": 179,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:6:2",
+       "term": "从传统人事管理向现代人力资源管理的发展",
+       "kind": "简答",
+       "page": 180,
+       "red": true,
+       "ocr": [
+        210
+       ]
+      },
+      {
+       "id": "cai-wang-3:6:3",
+       "term": "人力资源管理的理论演进（考的可能性不是很大，各记一些就行）",
+       "kind": "要点",
+       "page": 183,
+       "red": false,
+       "ocr": [
+        213
+       ]
+      },
+      {
+       "id": "cai-wang-3:6:4",
+       "term": "职务分析含义及程序、方法不是很重要，着重背不太了解的",
+       "kind": "要点",
+       "page": 186,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:6:5",
+       "term": "招聘渠道的的类型",
+       "kind": "简答",
+       "page": 189,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:6:6",
+       "term": "有效绩效评估系统的要求",
+       "kind": "要点",
+       "page": 192,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:6:7",
+       "term": "薪酬管理的基本原则",
+       "kind": "简答",
+       "page": 194,
+       "red": false,
+       "ocr": [
+        225
+       ]
+      },
+      {
+       "id": "cai-wang-3:6:8",
+       "term": "公共人力资源管理制度的价值因素",
+       "kind": "简答",
+       "page": 197,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:6:9",
+       "term": "西方国家公务员制度的特点",
+       "kind": "简答",
+       "page": 199,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:6:10",
+       "term": "国外公共人力资源管理变革的背景及特点",
+       "kind": "简答",
+       "page": 203,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:6:11",
+       "term": "我国公共人力资源管理存在的问题/我国公务员制度存在的问题",
+       "kind": "简答",
+       "page": 205,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:6:12",
+       "term": "我国公共人力资源管理的改革思路与措施/我国公务员制度改革的思路与措施",
+       "kind": "简答",
+       "page": 206,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "公共预算管理",
+     "modules": [
+      "m7"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "cai-wang-3:7:1",
+       "term": "公共预算含义、功能、要素",
+       "kind": "要点",
+       "page": 213,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:7:2",
+       "term": "公共预算编制含义",
+       "kind": "要点",
+       "page": 219,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:7:3",
+       "term": "零基预算",
+       "kind": "要点",
+       "page": 222,
+       "red": false,
+       "ocr": [
+        245,
+        253,
+        254,
+        266
+       ]
+      },
+      {
+       "id": "cai-wang-3:7:4",
+       "term": "两上两下预算过程",
+       "kind": "要点",
+       "page": 223,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:7:5",
+       "term": "预算变更",
+       "kind": "名词解释",
+       "page": 228,
+       "red": false,
+       "ocr": [
+        256,
+        257,
+        259,
+        265
+       ]
+      },
+      {
+       "id": "cai-wang-3:7:6",
+       "term": "政府决算",
+       "kind": "名词解释",
+       "page": 229,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:7:7",
+       "term": "人大审查与监督政府预算的基本框架",
+       "kind": "简答",
+       "page": 232,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:7:8",
+       "term": "人大审查与监督缺陷",
+       "kind": "简答",
+       "page": 233,
+       "red": false,
+       "ocr": [
+        263,
+        265
+       ]
+      }
+     ]
+    },
+    {
+     "name": "政务信息资源管理",
+     "modules": [
+      "m8"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "cai-wang-3:8:1",
+       "term": "信息资源、政务信息资源、信息资源管理、政务信息资源管理、大数据、",
+       "kind": "名词解释",
+       "page": 243,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:8:2",
+       "term": "政务信息资源管理研究视角",
+       "kind": "简答",
+       "page": 250,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:8:3",
+       "term": "政务信息资源管理标准化",
+       "kind": "简答",
+       "page": 251,
+       "red": false,
+       "ocr": [
+        284,
+        285,
+        286,
+        287
+       ]
+      },
+      {
+       "id": "cai-wang-3:8:4",
+       "term": "政务信息资源管理体制（管理机构、管理职能、管理人员）",
+       "kind": "要点",
+       "page": 254,
+       "red": false,
+       "ocr": [
+        276,
+        288,
+        289
+       ]
+      },
+      {
+       "id": "cai-wang-3:8:5",
+       "term": "政务信息资源采集管理（含义及过程）",
+       "kind": "要点",
+       "page": 257,
+       "red": false,
+       "ocr": [
+        290,
+        292
+       ]
+      },
+      {
+       "id": "cai-wang-3:8:6",
+       "term": "政务信息存储、数据仓库、政务信息资源库的构建",
+       "kind": "名词解释",
+       "page": 259,
+       "red": false,
+       "ocr": [
+        293
+       ]
+      },
+      {
+       "id": "cai-wang-3:8:7",
+       "term": "政务信息资源分级、分类",
+       "kind": "名词解释",
+       "page": null,
+       "red": false,
+       "ocr": [
+        294,
+        301,
+        303
+       ]
+      },
+      {
+       "id": "cai-wang-3:8:8",
+       "term": "政务信息资源公开的含义及原则",
+       "kind": "要点",
+       "page": 263,
+       "red": true,
+       "ocr": [
+        295
+       ]
+      },
+      {
+       "id": "cai-wang-3:8:9",
+       "term": "政务信息资源交换共享",
+       "kind": "简答",
+       "page": 265,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:8:10",
+       "term": "政务信息资源开发含义、利用含义",
+       "kind": "要点",
+       "page": 273,
+       "red": true,
+       "ocr": [
+        306
+       ]
+      },
+      {
+       "id": "cai-wang-3:8:11",
+       "term": "政务信息资源开发利用框架",
+       "kind": "简答",
+       "page": 274,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:8:12",
+       "term": "政务信息资源开发利用战略 西方＆我国",
+       "kind": "简答",
+       "page": 276,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:8:13",
+       "term": "政务信息资源法制建设概况",
+       "kind": "要点",
+       "page": 279,
+       "red": false,
+       "ocr": [
+        316
+       ]
+      },
+      {
+       "id": "cai-wang-3:8:14",
+       "term": "政务信息资源管理法制建设内容",
+       "kind": "简答",
+       "page": 280,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "公共危机管理",
+     "modules": [
+      "m9"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "cai-wang-3:9:1",
+       "term": "突发事件与公共危机",
+       "kind": "名词解释",
+       "page": 286,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:2",
+       "term": "公共危机的特征",
+       "kind": "简答",
+       "page": 287,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:3",
+       "term": "公共危机管理",
+       "kind": "名词解释",
+       "page": 289,
+       "red": false,
+       "ocr": [
+        3,
+        34,
+        523,
+        525
+       ]
+      },
+      {
+       "id": "cai-wang-3:9:4",
+       "term": "公共危机管理体制",
+       "kind": "简答",
+       "page": 290,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:5",
+       "term": "公共危机管理系统",
+       "kind": "简答",
+       "page": 294,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:6",
+       "term": "公共危机动态管理模式",
+       "kind": "简答",
+       "page": 297,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:7",
+       "term": "公共危机预警",
+       "kind": "名词解释",
+       "page": 298,
+       "red": true,
+       "ocr": [
+        334,
+        335,
+        342
+       ]
+      },
+      {
+       "id": "cai-wang-3:9:8",
+       "term": "公共危机预警机制的功能",
+       "kind": "要点",
+       "page": 299,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:9",
+       "term": "公共危机预警机制的框架体系",
+       "kind": "要点",
+       "page": 299,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:10",
+       "term": "公共危机决策机制（特点及主体）",
+       "kind": "要点",
+       "page": 301,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:11",
+       "term": "公共危机资源配置与保障机制",
+       "kind": "简答",
+       "page": 303,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:12",
+       "term": "公共危机新闻发布机制",
+       "kind": "简答",
+       "page": 304,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:13",
+       "term": "公共危机控制处理机制",
+       "kind": "简答",
+       "page": 306,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:14",
+       "term": "公共危机管理法制（含义、特点、原则）",
+       "kind": "要点",
+       "page": null,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:15",
+       "term": "行政紧急权力受到法律控制的原因",
+       "kind": "简答",
+       "page": 314,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:16",
+       "term": "行政紧急权力的法律规制",
+       "kind": "简答",
+       "page": 315,
+       "red": false,
+       "ocr": [
+        322,
+        346,
+        348
+       ]
+      },
+      {
+       "id": "cai-wang-3:9:17",
+       "term": "行政紧急权力",
+       "kind": "名词解释",
+       "page": 314,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:9:18",
+       "term": "公民权利保障的必要性",
+       "kind": "简答",
+       "page": 316,
+       "red": false,
+       "ocr": [
+        349
+       ]
+      },
+      {
+       "id": "cai-wang-3:9:19",
+       "term": "公共危机管理中的公民权利及其救济",
+       "kind": "简答",
+       "page": 316,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "公共管理技术与方法",
+     "modules": [
+      "m10"
+     ],
+     "notes": [
+      "这一章以名词解释为主"
+     ],
+     "items": [
+      {
+       "id": "cai-wang-3:10:1",
+       "term": "传统行政方法（行政手段、法律手段、经济手段、思想教育手段），特点、具体方式及优缺点都要背，背四个名词解释/一整个",
+       "kind": "要点",
+       "page": null,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:10:2",
+       "term": "市场化工具、民营化、用者付费、合同外包、特许经营、凭单制、分散决策、放松管制、产权交易、内部市场、工商管理技术、全面质量管理、目标管理、顾客导向、标杆管理、流程再造、社会化手段、社区治理、志愿者服务、公众参与及听证会",
+       "kind": "要点",
+       "page": 328,
+       "red": true,
+       "ocr": [
+        34,
+        369,
+        375,
+        391
+       ]
+      },
+      {
+       "id": "cai-wang-3:10:3",
+       "term": "战略管理",
+       "kind": "名词解释",
+       "page": 340,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:10:4",
+       "term": "战略管理特征",
+       "kind": "简答",
+       "page": 341,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:10:5",
+       "term": "公共部门战略管理的性质",
+       "kind": "要点",
+       "page": 342,
+       "red": true,
+       "ocr": [
+        383,
+        384
+       ],
+       "also": "chen-2:11:2"
+      },
+      {
+       "id": "cai-wang-3:10:6",
+       "term": "公共部门战略管理过程",
+       "kind": "简答",
+       "page": 344,
+       "red": false,
+       "ocr": [
+        385,
+        386
+       ],
+       "also": "chen-2:11:2"
+      }
+     ]
+    },
+    {
+     "name": "公共管理规范",
+     "modules": [
+      "m11"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "cai-wang-3:11:1",
+       "term": "公共管理伦理",
+       "kind": "名词解释",
+       "page": 353,
+       "red": true,
+       "ocr": [],
+       "also": "chen-2:13:1"
+      },
+      {
+       "id": "cai-wang-3:11:2",
+       "term": "公共管理理论的构成要素及思考方式",
+       "kind": "简答",
+       "page": 354,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:11:3",
+       "term": "公共利益",
+       "kind": "名词解释",
+       "page": 357,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:11:4",
+       "term": "公共利益的评价功能",
+       "kind": "简答",
+       "page": 357,
+       "red": false,
+       "ocr": [
+        399
+       ]
+      },
+      {
+       "id": "cai-wang-3:11:5",
+       "term": "公共责任",
+       "kind": "名词解释",
+       "page": 358,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:11:6",
+       "term": "公共管理伦理的责任冲突与选择",
+       "kind": "简答",
+       "page": 359,
+       "red": true,
+       "ocr": [
+        401
+       ]
+      },
+      {
+       "id": "cai-wang-3:11:7",
+       "term": "公共管理伦理建设",
+       "kind": "简答",
+       "page": 360,
+       "red": true,
+       "ocr": [
+        402,
+        403,
+        427
+       ],
+       "also": "chen-2:13:1"
+      },
+      {
+       "id": "cai-wang-3:11:8",
+       "term": "公共管理法律途径",
+       "kind": "名词解释",
+       "page": 363,
+       "red": false,
+       "ocr": [
+        405,
+        406,
+        427
+       ]
+      },
+      {
+       "id": "cai-wang-3:11:9",
+       "term": "如何建设法治政府（法治行政的必要性、法治政府建设的主要任务和具体措施）",
+       "kind": "要点",
+       "page": 367,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:11:10",
+       "term": "行政法治化的主要内容",
+       "kind": "简答",
+       "page": 368,
+       "red": false,
+       "ocr": [
+        411
+       ]
+      },
+      {
+       "id": "cai-wang-3:11:11",
+       "term": "公共权力制约的基本理论",
+       "kind": "简答",
+       "page": 370,
+       "red": true,
+       "ocr": [
+        413
+       ]
+      },
+      {
+       "id": "cai-wang-3:11:12",
+       "term": "公共管理监督的内容",
+       "kind": "简答",
+       "page": 373,
+       "red": false,
+       "ocr": [
+        416
+       ]
+      },
+      {
+       "id": "cai-wang-3:11:13",
+       "term": "自由裁量权、国家政策部门化",
+       "kind": "名词解释",
+       "page": 373,
+       "red": false,
+       "ocr": [
+        416
+       ]
+      },
+      {
+       "id": "cai-wang-3:11:14",
+       "term": "公共管理内部监督体系",
+       "kind": "简答",
+       "page": 375,
+       "red": false,
+       "ocr": [
+        417,
+        418
+       ]
+      },
+      {
+       "id": "cai-wang-3:11:15",
+       "term": "公共管理外部监督体系",
+       "kind": "简答",
+       "page": 376,
+       "red": false,
+       "ocr": [
+        420,
+        422
+       ]
+      },
+      {
+       "id": "cai-wang-3:11:16",
+       "term": "我国公共管理监督机制存在的问题",
+       "kind": "简答",
+       "page": 381,
+       "red": false,
+       "ocr": [
+        427
+       ]
+      }
+     ]
+    },
+    {
+     "name": "公共部门绩效评估",
+     "modules": [
+      "m12"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "cai-wang-3:12:1",
+       "term": "公共部门绩效",
+       "kind": "名词解释",
+       "page": 391,
+       "red": false,
+       "ocr": [],
+       "also": "chen-2:12:1"
+      },
+      {
+       "id": "cai-wang-3:12:2",
+       "term": "公共部门绩效评估",
+       "kind": "名词解释",
+       "page": 392,
+       "red": false,
+       "ocr": [],
+       "also": "chen-2:12:1"
+      },
+      {
+       "id": "cai-wang-3:12:3",
+       "term": "公共部门绩效评估的社会条件",
+       "kind": "简答",
+       "page": 392,
+       "red": false,
+       "ocr": [],
+       "also": "chen-2:12:1"
+      },
+      {
+       "id": "cai-wang-3:12:4",
+       "term": "公共部门绩效评估的特征",
+       "kind": "简答",
+       "page": 393,
+       "red": false,
+       "ocr": [
+        435
+       ],
+       "also": "chen-2:12:1"
+      },
+      {
+       "id": "cai-wang-3:12:5",
+       "term": "公共部门绩效评估兴起的社会背景",
+       "kind": "简答",
+       "page": 395,
+       "red": false,
+       "ocr": [
+        437
+       ]
+      },
+      {
+       "id": "cai-wang-3:12:6",
+       "term": "公共部门绩效评估兴起的理论与实践意义",
+       "kind": "论述",
+       "page": 398,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:12:7",
+       "term": "绩效评估指标",
+       "kind": "名词解释",
+       "page": 403,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:12:8",
+       "term": "绩效标准",
+       "kind": "名词解释",
+       "page": 405,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:12:9",
+       "term": "米斯彻里奇增长曲线",
+       "kind": "名词解释",
+       "page": 406,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:12:10",
+       "term": "公共部门绩效评估指标的量的标准",
+       "kind": "简答",
+       "page": 406,
+       "red": false,
+       "ocr": [
+        449
+       ]
+      },
+      {
+       "id": "cai-wang-3:12:11",
+       "term": "公共部门绩效评估指标的量的标准",
+       "kind": "简答",
+       "page": 407,
+       "red": true,
+       "ocr": [
+        449
+       ]
+      },
+      {
+       "id": "cai-wang-3:12:12",
+       "term": "绩效评估指标确立的原则及依据",
+       "kind": "简答",
+       "page": 408,
+       "red": false,
+       "ocr": [
+        450
+       ]
+      },
+      {
+       "id": "cai-wang-3:12:13",
+       "term": "公共部门绩效评估系统的要素",
+       "kind": "简答",
+       "page": 411,
+       "red": false,
+       "ocr": [
+        454
+       ],
+       "also": "chen-2:12:1"
+      },
+      {
+       "id": "cai-wang-3:12:14",
+       "term": "公共部门绩效评估的行为过程",
+       "kind": "简答/论述",
+       "page": 412,
+       "red": false,
+       "ocr": [
+        455
+       ],
+       "also": "chen-2:12:1"
+      },
+      {
+       "id": "cai-wang-3:12:15",
+       "term": "西方国家公共部门绩效评估自身隐含的矛盾及缺陷",
+       "kind": "简答",
+       "page": 421,
+       "red": false,
+       "ocr": [
+        463
+       ]
+      },
+      {
+       "id": "cai-wang-3:12:16",
+       "term": "西方国家公共部门绩效评估的发展趋势",
+       "kind": "简答",
+       "page": 422,
+       "red": true,
+       "ocr": [
+        464
+       ]
+      },
+      {
+       "id": "cai-wang-3:12:17",
+       "term": "我国公共部门绩效评估存在的问题",
+       "kind": "简答",
+       "page": 424,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:12:18",
+       "term": "科学推进我国公共部门绩效评估的措施与途径",
+       "kind": "简答/论述",
+       "page": 424,
+       "red": true,
+       "ocr": [
+        467
+       ]
+      }
+     ]
+    },
+    {
+     "name": "公共部门改革",
+     "modules": [
+      "m13"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "cai-wang-3:13:1",
+       "term": "公共部门改革",
+       "kind": "名词解释",
+       "page": 435,
+       "red": true,
+       "ocr": []
+      },
+      {
+       "id": "cai-wang-3:13:2",
+       "term": "公共部门改革目标",
+       "kind": "简答",
+       "page": 438,
+       "red": false,
+       "ocr": [
+        480
+       ]
+      },
+      {
+       "id": "cai-wang-3:13:3",
+       "term": "公共管理新模式（奥斯本企业家政府、欧文修斯、盖伊彼得斯、费利耶、罗兹）",
+       "kind": "要点",
+       "page": 440,
+       "red": true,
+       "ocr": [
+        482,
+        486,
+        496
+       ]
+      },
+      {
+       "id": "cai-wang-3:13:4",
+       "term": "当代西方国家公共部门改革的内容与特点",
+       "kind": "简答",
+       "page": 447,
+       "red": true,
+       "ocr": [
+        489
+       ]
+      },
+      {
+       "id": "cai-wang-3:13:5",
+       "term": "当代中国行政体制改革的背景",
+       "kind": "简答",
+       "page": 455,
+       "red": false,
+       "ocr": [
+        500
+       ]
+      },
+      {
+       "id": "cai-wang-3:13:6",
+       "term": "以转变政府职能为中心的行政体制改革",
+       "kind": "简答",
+       "page": 464,
+       "red": false,
+       "ocr": [
+        508
+       ]
+      },
+      {
+       "id": "cai-wang-3:13:7",
+       "term": "深化行政体制改革的方向",
+       "kind": "简答",
+       "page": 467,
+       "red": false,
+       "ocr": [
+        512
+       ],
+       "also": "chen-2:3:8"
+      },
+      {
+       "id": "cai-wang-3:13:8",
+       "term": "当前行政体制改革的主要内容",
+       "kind": "简答/论述",
+       "page": 469,
+       "red": false,
+       "ocr": [
+        514
+       ]
+      }
+     ]
+    }
+   ],
+   "source": "公共管理/蔡立辉王乐夫重点/蔡立辉王乐夫公共管理学.docx"
+  },
+  {
+   "id": "chen-2",
+   "label": "陈",
+   "chapters": [
+    {
+     "name": "导论",
+     "modules": [
+      "m1",
+      "m2"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:1:1",
+       "term": "公共行政",
+       "kind": "名词解释",
+       "page": 3,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "公共组织",
+     "modules": [
+      "m3"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:2:1",
+       "term": "第三部门行政模型",
+       "kind": "要点",
+       "page": 34,
+       "red": false,
+       "ocr": [
+        51
+       ]
+      },
+      {
+       "id": "chen-2:2:2",
+       "term": "管理层次与管理幅度",
+       "kind": "简答",
+       "page": 38,
+       "red": false,
+       "ocr": [
+        55,
+        56,
+        71,
+        147
+       ]
+      },
+      {
+       "id": "chen-2:2:3",
+       "term": "旁系组织",
+       "kind": "名词解释",
+       "page": 41,
+       "red": false,
+       "ocr": [
+        58
+       ]
+      },
+      {
+       "id": "chen-2:2:4",
+       "term": "组织权力及运作",
+       "kind": "简答",
+       "page": 46,
+       "red": false,
+       "ocr": [
+        48,
+        49,
+        54,
+        62
+       ]
+      },
+      {
+       "id": "chen-2:2:5",
+       "term": "组织冲突与协调",
+       "kind": "简答",
+       "page": 47,
+       "red": false,
+       "ocr": [
+        64,
+        65,
+        66
+       ]
+      },
+      {
+       "id": "chen-2:2:6",
+       "term": "组织生命周期",
+       "kind": "简答",
+       "page": 55,
+       "red": false,
+       "ocr": [
+        72
+       ]
+      },
+      {
+       "id": "chen-2:2:7",
+       "term": "政府再造",
+       "kind": "名词解释",
+       "page": 57,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "政府改革与治理",
+     "modules": [
+      "m13",
+      "m2"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:3:1",
+       "term": "治理体系研究途径",
+       "kind": "简答",
+       "page": 61,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:3:2",
+       "term": "合作网络管理",
+       "kind": "名词解释",
+       "page": 62,
+       "red": false,
+       "ocr": [
+        79
+       ]
+      },
+      {
+       "id": "chen-2:3:3",
+       "term": "治理与统治的区别",
+       "kind": "简答",
+       "page": 63,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:3:4",
+       "term": "网络治理新特征",
+       "kind": "简答",
+       "page": 64,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:3:5",
+       "term": "网络治理的多重困境",
+       "kind": "简答",
+       "page": 72,
+       "red": false,
+       "ocr": [
+        89
+       ]
+      },
+      {
+       "id": "chen-2:3:6",
+       "term": "西方政府改革与治理的新进展",
+       "kind": "简答/论述",
+       "page": 87,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:3:7",
+       "term": "大部门体制",
+       "kind": "名词解释",
+       "page": 92,
+       "red": false,
+       "ocr": [
+        109,
+        110
+       ]
+      },
+      {
+       "id": "chen-2:3:8",
+       "term": "深化行政体制改革的思考",
+       "kind": "简答",
+       "page": 93,
+       "red": false,
+       "ocr": [
+        111
+       ],
+       "also": "cai-wang-3:13:7"
+      }
+     ]
+    },
+    {
+     "name": "政府间关系",
+     "modules": [
+      "m13"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:4:1",
+       "term": "政府间关系",
+       "kind": "名词解释",
+       "page": 109,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:4:2",
+       "term": "政府间关系研究的网络途径",
+       "kind": "简答",
+       "page": 112,
+       "red": false,
+       "ocr": [
+        129
+       ]
+      },
+      {
+       "id": "chen-2:4:3",
+       "term": "拉焦尔模式",
+       "kind": "名词解释",
+       "page": 115,
+       "red": false,
+       "ocr": [
+        132
+       ]
+      },
+      {
+       "id": "chen-2:4:4",
+       "term": "我国政府间关系调整",
+       "kind": "论述",
+       "page": 132,
+       "red": false,
+       "ocr": [
+        149,
+        151,
+        152
+       ]
+      }
+     ]
+    },
+    {
+     "name": "政府作用",
+     "modules": [
+      "m13",
+      "m1"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:5:1",
+       "term": "现代市场经济中政府行为的一般模式",
+       "kind": "简答",
+       "page": 145,
+       "red": false,
+       "ocr": [
+        162
+       ]
+      },
+      {
+       "id": "chen-2:5:2",
+       "term": "市场经济条件下的我国政府职能",
+       "kind": "论述",
+       "page": 147,
+       "red": false,
+       "ocr": [
+        164
+       ]
+      },
+      {
+       "id": "chen-2:5:3",
+       "term": "现阶段我国政府角色定位缺陷",
+       "kind": "简答",
+       "page": 149,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:5:4",
+       "term": "转型时期我国政府角色合理定位的思考",
+       "kind": "简答",
+       "page": 151,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:5:5",
+       "term": "政府失败现象的表现、类型与成因",
+       "kind": "论述",
+       "page": 158,
+       "red": false,
+       "ocr": [
+        176
+       ]
+      },
+      {
+       "id": "chen-2:5:6",
+       "term": "内部性、寻租",
+       "kind": "名词解释",
+       "page": 162,
+       "red": false,
+       "ocr": [
+        176,
+        179,
+        180
+       ]
+      },
+      {
+       "id": "chen-2:5:7",
+       "term": "政府失败的防范及纠正",
+       "kind": "简答",
+       "page": 165,
+       "red": false,
+       "ocr": [
+        182
+       ]
+      },
+      {
+       "id": "chen-2:5:8",
+       "term": "政府失败论的启示",
+       "kind": "简答",
+       "page": 170,
+       "red": false,
+       "ocr": [
+        186
+       ]
+      }
+     ]
+    },
+    {
+     "name": "政府工具",
+     "modules": [
+      "m10",
+      "m5"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:6:1",
+       "term": "政府工具研究的范围与途径",
+       "kind": "简答",
+       "page": 174,
+       "red": false,
+       "ocr": [
+        191
+       ]
+      },
+      {
+       "id": "chen-2:6:2",
+       "term": "2.5I模型",
+       "kind": "名词解释",
+       "page": 185,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:6:3",
+       "term": "3.公私伙伴关系",
+       "kind": "名词解释",
+       "page": 199,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:6:4",
+       "term": "4.新治理工具的推广与应用",
+       "kind": "简答",
+       "page": 200,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "公共政策",
+     "modules": [
+      "m5"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:7:1",
+       "term": "公共政策系统的构成",
+       "kind": "简答",
+       "page": 217,
+       "red": false,
+       "ocr": [
+        234
+       ]
+      }
+     ]
+    },
+    {
+     "name": "人力资源管理",
+     "modules": [
+      "m6"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:8:1",
+       "term": "我国公务员制度与西方文官制度异同",
+       "kind": "简答",
+       "page": 246,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:8:2",
+       "term": "我国公务员制度的完善",
+       "kind": "简答",
+       "page": 248,
+       "red": false,
+       "ocr": [
+        265
+       ]
+      },
+      {
+       "id": "chen-2:8:3",
+       "term": "公共部门人力资源",
+       "kind": "名词解释",
+       "page": 252,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:8:4",
+       "term": "公共部门人力资源开发的主要内容",
+       "kind": "简答",
+       "page": 253,
+       "red": false,
+       "ocr": [
+        270
+       ]
+      }
+     ]
+    },
+    {
+     "name": "公共预算与财政",
+     "modules": [
+      "m7"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:9:1",
+       "term": "公共财政、公共财政管理",
+       "kind": "名词解释",
+       "page": 264,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:9:2",
+       "term": "政府治理变革的一个突破口",
+       "kind": "简答",
+       "page": 280,
+       "red": false,
+       "ocr": [
+        297
+       ]
+      },
+      {
+       "id": "chen-2:9:3",
+       "term": "公共预算改革存在的问题",
+       "kind": "简答",
+       "page": 285,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:9:4",
+       "term": "推进公共预算改革的思考",
+       "kind": "简答",
+       "page": 286,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "第三部门管理",
+     "modules": [
+      "m3"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:10:1",
+       "term": "第三部门",
+       "kind": "名词解释",
+       "page": 289,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:10:2",
+       "term": "西方国家第三部门兴起的原因",
+       "kind": "简答",
+       "page": 297,
+       "red": false,
+       "ocr": [
+        314
+       ]
+      },
+      {
+       "id": "chen-2:10:3",
+       "term": "第三部门面临的困境",
+       "kind": "简答",
+       "page": 300,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:10:4",
+       "term": "第三部门兴起的原因",
+       "kind": "简答",
+       "page": 302,
+       "red": false,
+       "ocr": [
+        313,
+        314
+       ]
+      },
+      {
+       "id": "chen-2:10:5",
+       "term": "第三部门发展中存在的问题",
+       "kind": "简答",
+       "page": 304,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:10:6",
+       "term": "我国第三部门发展的突破",
+       "kind": "简答",
+       "page": 305,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:10:7",
+       "term": "非营利部门介入公共服务输送领域的原因",
+       "kind": "简答",
+       "page": 308,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:10:8",
+       "term": "第三部门的作用 西方＆我国",
+       "kind": "简答",
+       "page": 308,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    },
+    {
+     "name": "战略管理",
+     "modules": [
+      "m10"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:11:1",
+       "term": "公共部门战略管理兴起的背景",
+       "kind": "简答",
+       "page": 331,
+       "red": false,
+       "ocr": [
+        350
+       ],
+       "also": "cai-wang-3:10:6"
+      },
+      {
+       "id": "chen-2:11:2",
+       "term": "公共部门战略管理的评价",
+       "kind": "简答",
+       "page": 338,
+       "red": false,
+       "ocr": [
+        357
+       ],
+       "also": "cai-wang-3:10:5"
+      },
+      {
+       "id": "chen-2:11:3",
+       "term": "公共部门战略管理的现实价值",
+       "kind": "简答",
+       "page": 345,
+       "red": false,
+       "ocr": [
+        363
+       ],
+       "also": "cai-wang-3:10:5"
+      }
+     ]
+    },
+    {
+     "name": "绩效管理",
+     "modules": [
+      "m12"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:12:1",
+       "term": "公共部门绩效评估的要素",
+       "kind": "简答",
+       "page": 360,
+       "red": false,
+       "ocr": [
+        17,
+        378
+       ],
+       "also": "cai-wang-3:12:2"
+      },
+      {
+       "id": "chen-2:12:2",
+       "term": "伪评估模式",
+       "kind": "名词解释",
+       "page": 370,
+       "red": false,
+       "ocr": [
+        387,
+        388
+       ]
+      },
+      {
+       "id": "chen-2:12:3",
+       "term": "改进公共部门绩效评估的策略",
+       "kind": "简答",
+       "page": 374,
+       "red": false,
+       "ocr": [
+        392
+       ],
+       "also": "cai-wang-3:12:2"
+      }
+     ]
+    },
+    {
+     "name": "公共管理伦理",
+     "modules": [
+      "m11"
+     ],
+     "notes": [],
+     "items": [
+      {
+       "id": "chen-2:13:1",
+       "term": "公共管理伦理的功能",
+       "kind": "简答",
+       "page": 387,
+       "red": false,
+       "ocr": [
+        405
+       ],
+       "also": "cai-wang-3:11:1"
+      },
+      {
+       "id": "chen-2:13:2",
+       "term": "官员问责制",
+       "kind": "简答",
+       "page": 394,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:13:3",
+       "term": "负责人行为构成要素",
+       "kind": "简答",
+       "page": 398,
+       "red": false,
+       "ocr": []
+      },
+      {
+       "id": "chen-2:13:4",
+       "term": "合理有效公共管理伦理体系的形成",
+       "kind": "简答",
+       "page": 405,
+       "red": false,
+       "ocr": []
+      }
+     ]
+    }
+   ],
+   "source": "公共管理/陈振明重点/陈振明公共管理.docx"
+  }
+ ],
+ "stats": {
+  "items": 218,
+  "verified": 111,
+  "red": 42,
+  "both": 18
+ },
+ "description": "红点沿用重点笔记的标红；纸书 P 是笔记页码，原文 p 是 MinerU 底稿中的 PDF 页序。关键词命中只帮助定位，不代表整条考点已逐句核验。"
+}

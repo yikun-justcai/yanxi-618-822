@@ -1,0 +1,100 @@
+// 实际离线 Edge 流程测试；NODE_PATH 使用已有 Playwright 运行时。
+const {chromium}=require('playwright');
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const path=require('node:path');
+const {pathToFileURL}=require('node:url');
+const root=path.resolve(__dirname,'..');
+const out=path.join(root,'截图','framework');
+const url=pathToFileURL(path.join(root,'index.html')).href;
+const capture=fs.readFileSync(path.join(__dirname,'spacing_capture.js'),'utf8');
+const results=[];
+let assertions=0;
+function check(value,label){assert.ok(value,label);assertions++;}
+(async()=>{
+ fs.mkdirSync(out,{recursive:true});
+ const browser=await chromium.launch({channel:'msedge',headless:true});
+ try{
+  for(const width of [390,1440,1728])for(const [subject,mid,first,last] of [['618','m3','l3-1','l3-6'],['822','p4','p4-1','p4-2']]){
+   const ctx=await browser.newContext({viewport:{width,height:960},offline:true});
+   const page=await ctx.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
+   const go=async(hash)=>{await page.evaluate(h=>{location.hash=h},hash);await page.waitForTimeout(60)};
+   const key=`yanxi-${subject}-v2`,other=`yanxi-${subject==='618'?'822':'618'}-v2`;
+   await page.goto(`${url}?subject=${subject}`);
+   await page.evaluate(({key,other,first})=>{
+    localStorage.setItem(key,JSON.stringify({lessons:{[first]:{ex:{0:'y'},text:'原有写作'}},last:first}));
+    localStorage.setItem(other,JSON.stringify({lessons:{sentinel:{text:'另一科原进度'}},last:null}));
+   },{key,other,first});
+   await page.reload();
+   const stored=()=>page.evaluate(k=>JSON.parse(localStorage.getItem(k)),key);
+   const shot=async(name)=>{
+    await page.evaluate(()=>document.fonts.ready);
+    check(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`${name} 无横向溢出`);
+    await page.screenshot({path:path.join(out,`${subject}-${width}-${name}.png`),fullPage:true});
+    const state=await page.evaluate(capture);state.name=`${subject}-${width}-${name}`;
+    fs.writeFileSync(path.join(out,`${subject}-${width}-${name}-spacing.json`),JSON.stringify(state));
+   };
+   await shot('map');
+   await page.locator('a[href="#/framework"]').first().click();await page.waitForSelector('.framework-groups');
+   check(await page.locator('.framework-groups>li').count()===(subject==='618'?6:7),'全科问题框架完整');await shot('overview');
+   await page.locator(`.framework-groups a[href="#/module/${mid}"]`).click();
+   await page.waitForSelector('.framework-relation');await shot('chapter');
+   check(await page.locator(`a[href="#/lesson/${first}"]`).count()>0,'章前定位能回到课时');
+   const bridge=await page.getByRole('link',{name:/切换到/}).getAttribute('href');
+   check(bridge.includes('subject='+(subject==='618'?'822':'618'))&&bridge.includes('#/module/'),'跨科入口正确');
+   await go('#/lesson/'+last);
+   check(await page.getByRole('link',{name:'开始章节重建 →'}).count()===1,'末课有收束入口');
+   await page.getByRole('link',{name:'开始章节重建 →'}).click();await page.waitForSelector('#rebuild-form');
+   check(await page.locator('#rebuild-reference').count()===0,'初始 DOM 不展示参考');
+   await page.getByRole('button',{name:'已完成三个任务，展开参考 →'}).click();
+   check(await page.locator('#rebuild-reference').count()===0,'空白不能展开参考');
+   check(await page.locator('#recall-structure').evaluate(e=>e===document.activeElement),'空白提交聚焦待写项');
+   await page.locator('#recall-structure').fill('先辨认对象，再安排结构与关系。<script>不执行</script>');
+   await go('#/review');await go('#/rebuild/'+mid);
+   check((await page.locator('#recall-structure').inputValue()).includes('<script>'),'离开即保存，文本安全回显');
+   await page.reload();check((await page.locator('#recall-structure').inputValue()).includes('辨认对象'),'刷新恢复草稿');
+   await page.locator('#rebuild-hint').focus();await page.keyboard.press('Enter');
+   check((await stored()).chapters[mid].hint,'键盘提示且保存使用记录');
+   await page.locator('#recall-relation').fill('类型与结构各回答不同的问题，需要联系目标解释。');
+   await page.locator('#recall-application').fill('核实实际需求与组织能力，再比较安排并落实责任。');
+   await page.locator('#recall-relation').focus();await shot('draft-focus');
+   const progress=await page.locator('#nav-progress').textContent();
+   await page.getByRole('button',{name:'已完成三个任务，展开参考 →'}).click();await page.waitForSelector('#rebuild-reference');
+   check(await page.locator('#recall-structure').getAttribute('readonly')!==null,'对照时锁定草稿');
+   check(await page.locator('#rebuild-reference h3').evaluate(e=>e===document.activeElement),'展开后焦点在参考标题');
+   for(const box of await page.locator('.framework-check input').all())await box.check();
+   check((await stored()).chapters[mid].checks.length===3,'自评保存');
+   check(await page.locator('#nav-progress').textContent()===progress,'自评不增加课时完成度');
+   await page.locator('#sec-evid>summary').focus();await page.keyboard.press('Enter');
+   check(await page.locator('#sec-evid').evaluate(e=>e.open),'依据支持键盘展开');
+   check((await page.locator('#sec-evid').textContent()).includes('MinerU'),'参考保留 MinerU 来源');
+   await shot('reference');
+   await page.locator('#rebuild-edit').click();
+   check(await page.locator('#rebuild-reference').count()===0,'修改时移除旧参考');
+   check((await stored()).chapters[mid].checks.length===0,'修改清除旧自评');
+   await page.getByRole('button',{name:'已完成三个任务，展开参考 →'}).click();
+   await page.locator('.framework-check input').first().check();
+   await page.locator('#rebuild-new').click();
+   check(await page.locator('#recall-structure').inputValue()==='','新一轮清空作答');
+   check(await page.locator('#rebuild-reference').count()===0,'新一轮不泄漏参考');
+   const data=await stored();
+   check(data.chapters[mid].lastAttempt.answers.structure.includes('辨认对象'),'上一轮作答保留');
+   check(data.chapters[mid].lastAttempt.checks.length===1&&!data.chapters[mid].hint,'上一轮自评保留，提示重置');
+   check(data.lessons[first].text==='原有写作'&&data.lessons[first].ex[0]==='y','旧课时记录完整保留');
+   check(await page.evaluate(k=>JSON.parse(localStorage.getItem(k)).lessons.sentinel.text,other)==='另一科原进度','另一科存储未改动');
+   await go('#/review');check(await page.getByRole('link',{name:/草稿待完成/}).count()===1,'复习页有章节重建入口');
+   await go('#/rebuild/'+mid);
+   await page.evaluate(()=>{Storage.prototype.setItem=function(){throw new DOMException('quota','QuotaExceededError')}});
+   await page.locator('#recall-structure').fill('保存失败也保留当前输入');
+   check((await page.locator('#rebuild-save').textContent()).includes('保存失败'),'保存失败有持续提示');
+   await page.locator('#recall-relation').fill('说明关系');await page.locator('#recall-application').fill('说明条件');
+   await page.getByRole('button',{name:'已完成三个任务，展开参考 →'}).click();
+   check((await page.locator('#rebuild-save').textContent()).includes('保存失败'),'重绘不掩盖保存失败');
+   await page.locator('#rebuild-new').click();check((await page.locator('#recall-structure').inputValue()).includes('保存失败'),'新一轮保存失败不清空当前作答');
+   check(errors.length===0,'无浏览器脚本错误');
+   results.push({subject,width,offline:true,passed:true});await ctx.close();
+  }
+  fs.writeFileSync(path.join(out,'browser-results.json'),JSON.stringify({assertions,results},null,2));
+  console.log(JSON.stringify({assertions,results}));
+ }finally{await browser.close()}
+})().catch(e=>{console.error(e);process.exit(1)});

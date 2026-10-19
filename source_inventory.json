@@ -1,0 +1,73 @@
+[
+  {
+    "id": "cai-wang-3",
+    "title": "蔡立辉、王乐夫《公共管理学》第3版",
+    "short": "蔡王",
+    "subject": "618",
+    "ocrPath": "专业课记忆站/sources/mineru/cai-wang-3.md",
+    "ocrPages": 527,
+    "sha256": "7d4eef682a3de5eccea4bd107b6dcd159449f525bde45dd8c5711ebb12eb4437",
+    "reviewStatus": "quote-checked",
+    "pageMarker": "PDF 第 N 页（从封面起算；不是纸书页码）",
+    "legacyOcrPath": "OCR全文/公共管理学（第三版） 蔡立辉，王乐夫 .md",
+    "legacySha256": "c0779772b9518a0695c2e4dd006f5763139ee705fa89030207ce76d4682f798d",
+    "engine": "MinerU",
+    "extraction": "layout.preproc_blocks + page_footnote"
+  },
+  {
+    "id": "chen-2",
+    "title": "陈振明《公共管理学》第二版",
+    "short": "陈",
+    "subject": "618",
+    "ocrPath": "专业课记忆站/sources/mineru/chen-2.md",
+    "ocrPages": 450,
+    "sha256": "16ca3fff3aeebf641852966d74abc74626632bbeb1974f74fffb10b113616a9c",
+    "reviewStatus": "quote-checked",
+    "pageMarker": "PDF 第 N 页（从封面起算；不是纸书页码）",
+    "legacyOcrPath": "OCR全文/陈振明-公共管理学-第二版.md",
+    "legacySha256": "18426bba3a16e24cbff2dd0a470b5522901ff057a830d68141dacc3dc37ce966",
+    "engine": "MinerU",
+    "extraction": "layout.preproc_blocks + page_footnote"
+  },
+  {
+    "id": "ning-3",
+    "title": "宁骚《公共政策学》第3版",
+    "short": "宁",
+    "subject": "822",
+    "ocrPath": "专业课记忆站/sources/mineru/ning-3.md",
+    "ocrPages": 445,
+    "sha256": "7228c5b4163683b91d701973a05a2b606e1abe3af14714db29eb40564754a614",
+    "reviewStatus": "quote-checked",
+    "pageMarker": "PDF 第 N 页（从封面起算；不是纸书页码）",
+    "legacyOcrPath": "OCR全文/公共政策学 第3版__14433025.md",
+    "legacySha256": "523cb4ea9ea78e9744eb96cc68295505efc2b3378d8b5f863d82ba3aeb2fbd15",
+    "engine": "MinerU",
+    "extraction": "layout.preproc_blocks + page_footnote"
+  },
+  {
+    "id": "xie-intro-5",
+    "title": "谢明《公共政策导论》第5版",
+    "short": "谢",
+    "subject": "822",
+    "ocrPath": "专业课记忆站/sources/mineru/xie-intro-5.md",
+    "ocrPages": 329,
+    "sha256": "9a44b15493e9785a4d8e474b0fc7d05a947e421fd39b6912f827b6f49dc4adae",
+    "reviewStatus": "quote-checked",
+    "pageMarker": "PDF 第 N 页（从封面起算；不是纸书页码）",
+    "legacyOcrPath": "OCR全文/谢明 公共政策导论 第五版.md",
+    "legacySha256": "2483660dd2df3faf3a3c1118e0e8de92ab0213395ea807b5a059c191d7933c35",
+    "engine": "MinerU",
+    "extraction": "layout.preproc_blocks + page_footnote"
+  },
+  {
+    "id": "xie-analysis-revised",
+    "title": "谢明《公共政策分析概论》修订版",
+    "short": "谢",
+    "subject": "822",
+    "ocrPath": "OCR全文/谢明 公共政策分析概论.修订版_12862636.md",
+    "ocrPages": 326,
+    "sha256": "3578519b975cd1b4e6c903687ae2a2bea1828cf1d3c2ab97af5a5dc53559e702",
+    "reviewStatus": "unreviewed",
+    "pageMarker": "OCR 第 N 页（PDF 1 起算；不是纸书页码）"
+  }
+]

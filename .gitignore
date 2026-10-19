@@ -1,0 +1,27 @@
+# 本地工具与代理状态
+.dsh/
+.agents/
+.specify/
+__pycache__/
+*.pyc
+
+# 教材全文与原始资料（版权原因不公开）
+sources/mineru/*.md
+sources/mineru/*.json
+OCR全文/
+backups/
+*.pdf
+*.docx
+*.doc
+
+# 本地截图与评审产物
+截图/
+
+# 内部交接与工作记录
+交接给*.md
+MinerU迁移与内容复核.md
+AGENTS.md
+
+# 系统文件
+Thumbs.db
+.DS_Store
