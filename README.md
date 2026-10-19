@@ -86,6 +86,7 @@ specs/                     设计与验收记录
 站点本身不依赖构建：`index.html` 已经包含全部数据。只有修改课程或重建数据时才需要 Python。
 
 ```powershell
+pip install -r requirements.txt
 python build_site.py        # 校验课时、练习、引文、真题来源；重写 index.html 的 JSON 块
 python tools/selftest.py    # 两科 165 项浏览器自测（需要本机 Edge/Chrome）
 ```
